@@ -17,6 +17,7 @@ function App() {
       <nav>
         <img src='mobie.png' width={64} />
         <h1 style={{ fontWeight: 400 }}>MOBIE</h1>
+        |
         <a target='_blank' href='https://xbdrc.github.io/' title='Bruno Cruz'>
           <img src='bc_icon.ico' height={32} />
         </a>
